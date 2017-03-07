@@ -6,5 +6,6 @@
     <ImageButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/flan_button" />
+        android:src="@drawable/flan_button"
+        android:contentDescription="@string/flan" />
 </LinearLayout>
